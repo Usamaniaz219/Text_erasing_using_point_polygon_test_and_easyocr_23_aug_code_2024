@@ -188,10 +188,7 @@ if __name__ == "__main__":
     tile_width = 1024
     tile_height = 1024
 
-    input__image_directory = '/media/usama/6EDEC3CBDEC389B3/Data_For_Asfand_(Evaluation)_imp/original_map_images/'
-    mask_image_dir = '/media/usama/6EDEC3CBDEC389B3/Data_For_Asfand_(Evaluation)_imp/Denoised_masks/'
-    output_directory = '/media/usama/6EDEC3CBDEC389B3/23_aug_2024_results_221/'
-# # 
+
     # input__image_directory = '/home/usama/Data_13_aug_2024_temp_latest/A/'
     # mask_image_dir = '/home/usama/Data_13_aug_2024_temp_latest/B/'
     # output_directory = '/media/usama/6EDEC3CBDEC389B3/22_aug_2024_results_221/'

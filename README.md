@@ -94,7 +94,7 @@ if __name__ == "__main__":
 Run the script:
 
 ```bash
-python text_erasing_from_mask_image_23_updated_aug_2024.p
+python text_erasing_from_mask_image_23_updated_aug_2024.py
 ```
 
 ---
